@@ -1,0 +1,1232 @@
+.elementor-10 .elementor-element.elementor-element-1415a91 {
+    --display: flex;
+    --min-height: 355px;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --overflow: hidden;
+    --background-transition: 0.3s;
+    --padding-block-start: 35px;
+    --padding-block-end: 0px;
+    --padding-inline-start: 0px;
+    --padding-inline-end: 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-1415a91,
+.elementor-10 .elementor-element.elementor-element-1415a91::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-c527cb8 {
+    --spacer-size: 24px;
+}
+
+.elementor-10 .elementor-element.elementor-element-5b37003 {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-27401de {
+    text-align: left;
+}
+
+.elementor-10 .elementor-element.elementor-element-27401de>.elementor-widget-container {
+    margin: 0px 0px -107px 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-1ed767b {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --align-items: flex-start;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-6598f06 .elementor-image-box-wrapper {
+    text-align: left;
+}
+
+.elementor-10 .elementor-element.elementor-element-6598f06.elementor-position-right .elementor-image-box-img {
+    margin-left: 73px;
+}
+
+.elementor-10 .elementor-element.elementor-element-6598f06.elementor-position-left .elementor-image-box-img {
+    margin-right: 73px;
+}
+
+.elementor-10 .elementor-element.elementor-element-6598f06.elementor-position-top .elementor-image-box-img {
+    margin-bottom: 73px;
+}
+
+.elementor-10 .elementor-element.elementor-element-6598f06 .elementor-image-box-wrapper .elementor-image-box-img {
+    width: 65%;
+}
+
+.elementor-10 .elementor-element.elementor-element-6598f06 .elementor-image-box-img img {
+    transition-duration: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-6598f06 .elementor-image-box-title {
+    margin-bottom: 0px;
+    color: #FFFFFF;
+    font-family: "Roboto", Sans-serif;
+    font-weight: 600;
+}
+
+.elementor-10 .elementor-element.elementor-element-6598f06 .elementor-image-box-description {
+    color: #FFFFFF;
+    font-family: "Baloo 2", Sans-serif;
+    font-size: 19px;
+    font-weight: 400;
+}
+
+.elementor-10 .elementor-element.elementor-element-b00d805 {
+    --display: flex;
+    --min-height: 321px;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --overflow: hidden;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-b00d805,
+.elementor-10 .elementor-element.elementor-element-b00d805::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-3f30302 {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-f489f36 {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-c1c549e .elementor-button .elementor-align-icon-right {
+    margin-left: 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-c1c549e .elementor-button .elementor-align-icon-left {
+    margin-right: 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-c1c549e a.elementor-button,
+.elementor-10 .elementor-element.elementor-element-c1c549e .elementor-button {
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+    background-color: #1474b6;
+    border-radius: 63px 63px 63px 63px;
+}
+
+.elementor-10 .elementor-element.elementor-element-c1c549e .elementor-button {
+    border-style: none;
+}
+
+.elementor-10 .elementor-element.elementor-element-c1c549e .dce-clipboard-value {
+    fill: #FFFFFF;
+    color: #FFFFFF;
+}
+
+.elementor-10 .elementor-element.elementor-element-c1c549e>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-c1c549e {
+    width: var( --container-widget-width, 62.486%);
+    max-width: 62.486%;
+    --container-widget-width: 62.486%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-c1c549e.elementor-element {
+    --align-self: center;
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-7f88926 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --justify-content: center;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-e211c64 img {
+    width: 48%;
+}
+
+.elementor-10 .elementor-element.elementor-element-e211c64>.elementor-widget-container {
+    margin: 0px -89px 0px -89px;
+}
+
+.elementor-10 .elementor-element.elementor-element-e211c64.elementor-element {
+    --align-self: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-85f03f4 img {
+    width: 48%;
+}
+
+.elementor-10 .elementor-element.elementor-element-85f03f4>.elementor-widget-container {
+    margin: 0px -89px 0px -89px;
+}
+
+.elementor-10 .elementor-element.elementor-element-e660419 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --overflow: hidden;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-e660419:not(.elementor-motion-effects-element-type-background),
+.elementor-10 .elementor-element.elementor-element-e660419>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://koolaidmancoin.com/wp-content/uploads/2023/11/BACKG.png");
+}
+
+.elementor-10 .elementor-element.elementor-element-e660419,
+.elementor-10 .elementor-element.elementor-element-e660419::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-1a74e57 .elementor-main-swiper {
+    height: 100px;
+    width: 100%;
+}
+
+.elementor-10 .elementor-element.elementor-element-1a74e57 .elementor-main-swiper .elementor-carousel-image {
+    background-size: contain;
+}
+
+.elementor-10 .elementor-element.elementor-element-1a74e57.elementor-skin-slideshow .elementor-main-swiper {
+    margin-bottom: 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-1a74e57 .elementor-main-swiper .swiper-slide {
+    border-width: 19px 19px 19px 19px;
+    border-radius: 0px;
+    border-color: #02010100;
+}
+
+.elementor-10 .elementor-element.elementor-element-1a74e57 .elementor-swiper-button {
+    font-size: 16px;
+}
+
+.elementor-10 .elementor-element.elementor-element-1a74e57 .elementor-custom-embed-play i {
+    font-size: 33px;
+}
+
+#elementor-lightbox-slideshow-1a74e57 .elementor-video-container {
+    width: 50%;
+}
+
+.elementor-10 .elementor-element.elementor-element-1a74e57>.elementor-widget-container {
+    margin: -11px -11px -11px -11px;
+}
+
+.elementor-10 .elementor-element.elementor-element-1a74e57.elementor-element {
+    --align-self: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-e5be1e7 {
+    --display: flex;
+    --min-height: 69vh;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --justify-content: center;
+    --align-items: center;
+    --gap: 0px 0px;
+    --overflow: hidden;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-e5be1e7,
+.elementor-10 .elementor-element.elementor-element-e5be1e7::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-e5be1e7.e-con {
+    --align-self: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-0e7fc31 {
+    --display: flex;
+    --background-transition: 0.3s;
+    --margin-block-start: 33px;
+    --margin-block-end: 33px;
+    --margin-inline-start: 33px;
+    --margin-inline-end: 33px;
+}
+
+.elementor-10 .elementor-element.elementor-element-0e7fc31:not(.elementor-motion-effects-element-type-background),
+.elementor-10 .elementor-element.elementor-element-0e7fc31>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: transparent;
+    background-image: linear-gradient(180deg, #044C94 0%, #044C949C 100%);
+}
+
+.elementor-10 .elementor-element.elementor-element-0e7fc31,
+.elementor-10 .elementor-element.elementor-element-0e7fc31::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-0e7fc31.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-e8f2351 {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-d9aa47c {
+    text-align: left;
+}
+
+.elementor-10 .elementor-element.elementor-element-d9aa47c img {
+    max-width: 79%;
+}
+
+.elementor-10 .elementor-element.elementor-element-84f0ba9 .elementor-image-box-wrapper {
+    text-align: left;
+}
+
+.elementor-10 .elementor-element.elementor-element-84f0ba9.elementor-position-right .elementor-image-box-img {
+    margin-left: 15px;
+}
+
+.elementor-10 .elementor-element.elementor-element-84f0ba9.elementor-position-left .elementor-image-box-img {
+    margin-right: 15px;
+}
+
+.elementor-10 .elementor-element.elementor-element-84f0ba9.elementor-position-top .elementor-image-box-img {
+    margin-bottom: 15px;
+}
+
+.elementor-10 .elementor-element.elementor-element-84f0ba9 .elementor-image-box-wrapper .elementor-image-box-img {
+    width: 54%;
+}
+
+.elementor-10 .elementor-element.elementor-element-84f0ba9 .elementor-image-box-img img {
+    transition-duration: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-84f0ba9 .elementor-image-box-title {
+    font-family: "Roboto", Sans-serif;
+    font-weight: 600;
+}
+
+.elementor-10 .elementor-element.elementor-element-84f0ba9 .elementor-image-box-description {
+    color: #FFFFFF;
+    font-family: "Baloo 2", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.elementor-10 .elementor-element.elementor-element-84f0ba9>.elementor-widget-container {
+    margin: 17px 17px 17px 17px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-b1cd21f {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --gap: 0px 0px;
+    --overflow: hidden;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-b1cd21f:not(.elementor-motion-effects-element-type-background),
+.elementor-10 .elementor-element.elementor-element-b1cd21f>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://koolaidmancoin.com/wp-content/uploads/2023/11/BACKG.png");
+}
+
+.elementor-10 .elementor-element.elementor-element-b1cd21f,
+.elementor-10 .elementor-element.elementor-element-b1cd21f::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-f471341 {
+    --display: flex;
+    --min-height: 419px;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-81a3be3 img {
+    border-radius: 17px 17px 17px 17px;
+    box-shadow: 6px 0px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+.elementor-10 .elementor-element.elementor-element-a71d184 .elementor-button {
+    background-color: #2366a8;
+    border-style: solid;
+    border-width: 0px 0px 8px 0px;
+    border-color: #273672F7;
+    border-radius: 0px 0px 15px 15px;
+}
+
+.elementor-10 .elementor-element.elementor-element-5e9c8dc {
+    color: #FDFDFD;
+    font-family: "Baloo 2", Sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.elementor-10 .elementor-element.elementor-element-db4f3b3 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-23155b4 img {
+    border-radius: 17px 17px 17px 17px;
+    box-shadow: 6px 0px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+.elementor-10 .elementor-element.elementor-element-dad63c6 .elementor-button {
+    background-color: #2366a8;
+    border-style: solid;
+    border-width: 0px 0px 8px 0px;
+    border-color: #273672F7;
+    border-radius: 0px 0px 15px 15px;
+}
+
+.elementor-10 .elementor-element.elementor-element-a1562f4 {
+    color: #FDFDFD;
+    font-family: "Baloo 2", Sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.elementor-10 .elementor-element.elementor-element-d7281b3 {
+    --display: flex;
+    --min-height: 73vh;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --gap: 0px 0px;
+    --overflow: hidden;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-d7281b3,
+.elementor-10 .elementor-element.elementor-element-d7281b3::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-9ebe66f {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-483a362 {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-185a28d {
+    --display: flex;
+    --background-transition: 0.3s;
+    --margin-block-start: 0px;
+    --margin-block-end: 0px;
+    --margin-inline-start: 0px;
+    --margin-inline-end: 0px;
+    --padding-block-start: 0px;
+    --padding-block-end: 0px;
+    --padding-inline-start: 0px;
+    --padding-inline-end: 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-9aadfd0 img {
+    width: 37%;
+}
+
+.elementor-10 .elementor-element.elementor-element-9aadfd0>.elementor-widget-container {
+    margin: -75px -13px -13px -13px;
+}
+
+.elementor-10 .elementor-element.elementor-element-8308f2a {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-84b6235>.elementor-widget-container {
+    margin: -10px -10px -10px -10px;
+}
+
+.elementor-10 .elementor-element.elementor-element-7270463 {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-9f0bc9f>.elementor-widget-container {
+    margin: -37px 0px 0px 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-8351b92 {
+    --display: flex;
+    --min-height: 100vh;
+    --flex-direction: column;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --justify-content: center;
+    --align-items: center;
+    --overflow: hidden;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-8351b92,
+.elementor-10 .elementor-element.elementor-element-8351b92::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-72e7434 {
+    --display: flex;
+    --min-height: 3vh;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --justify-content: center;
+    --background-transition: 0.3s;
+    box-shadow: 2px 1px 10px 0px rgba(0, 0, 0, 0.5);
+    --padding-block-start: 0px;
+    --padding-block-end: 0px;
+    --padding-inline-start: 0px;
+    --padding-inline-end: 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-72e7434,
+.elementor-10 .elementor-element.elementor-element-72e7434::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-72e7434.e-con {
+    --align-self: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-aae5f4b {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-a4fd34c {
+    --display: flex;
+    --min-height: 50vh;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --justify-content: center;
+    --background-transition: 0.3s;
+    --border-radius: 25px 25px 25px 25px;
+    box-shadow: 2px 1px 10px 0px rgba(0, 0, 0, 0.5);
+    --padding-block-start: 60px;
+    --padding-block-end: 60px;
+    --padding-inline-start: 095px;
+    --padding-inline-end: 095px;
+}
+
+.elementor-10 .elementor-element.elementor-element-a4fd34c:not(.elementor-motion-effects-element-type-background),
+.elementor-10 .elementor-element.elementor-element-a4fd34c>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #145ba7;
+}
+
+.elementor-10 .elementor-element.elementor-element-a4fd34c,
+.elementor-10 .elementor-element.elementor-element-a4fd34c::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-a4fd34c.e-con {
+    --align-self: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-8371ccd {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+    --margin-block-start: 8px;
+    --margin-block-end: 8px;
+    --margin-inline-start: 8px;
+    --margin-inline-end: 8px;
+}
+
+.elementor-10 .elementor-element.elementor-element-8371ccd,
+.elementor-10 .elementor-element.elementor-element-8371ccd::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-ba22eb3 {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-3461121 {
+    text-align: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-3461121 .elementor-heading-title {
+    color: #F7F7F7;
+}
+
+.elementor-10 .elementor-element.elementor-element-ce3bb68 {
+    color: #FFFFFF;
+}
+
+.elementor-10 .elementor-element.elementor-element-6090a9f {
+    --display: flex;
+    --min-height: 50vh;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --justify-content: center;
+    --background-transition: 0.3s;
+    --border-radius: 25px 25px 25px 25px;
+    box-shadow: 2px 1px 10px 0px rgba(0, 0, 0, 0.5);
+    --padding-block-start: 60px;
+    --padding-block-end: 60px;
+    --padding-inline-start: 095px;
+    --padding-inline-end: 095px;
+}
+
+.elementor-10 .elementor-element.elementor-element-6090a9f:not(.elementor-motion-effects-element-type-background),
+.elementor-10 .elementor-element.elementor-element-6090a9f>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #0858a0;
+}
+
+.elementor-10 .elementor-element.elementor-element-6090a9f,
+.elementor-10 .elementor-element.elementor-element-6090a9f::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-6090a9f.e-con {
+    --align-self: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-552a1dc {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+    --margin-block-start: 8px;
+    --margin-block-end: 8px;
+    --margin-inline-start: 8px;
+    --margin-inline-end: 8px;
+}
+
+.elementor-10 .elementor-element.elementor-element-552a1dc,
+.elementor-10 .elementor-element.elementor-element-552a1dc::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-06cd1e6 {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-bb3583d {
+    text-align: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-bb3583d .elementor-heading-title {
+    color: #F7F7F7;
+}
+
+.elementor-10 .elementor-element.elementor-element-0683737 {
+    color: #FFFFFF;
+}
+
+.elementor-10 .elementor-element.elementor-element-d027243 {
+    --display: flex;
+    --min-height: 50vh;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --justify-content: center;
+    --background-transition: 0.3s;
+    --border-radius: 25px 25px 25px 25px;
+    box-shadow: 2px 1px 10px 0px rgba(0, 0, 0, 0.5);
+    --padding-block-start: 60px;
+    --padding-block-end: 60px;
+    --padding-inline-start: 095px;
+    --padding-inline-end: 095px;
+}
+
+.elementor-10 .elementor-element.elementor-element-d027243:not(.elementor-motion-effects-element-type-background),
+.elementor-10 .elementor-element.elementor-element-d027243>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #0858A0;
+}
+
+.elementor-10 .elementor-element.elementor-element-d027243,
+.elementor-10 .elementor-element.elementor-element-d027243::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-d027243.e-con {
+    --align-self: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-92b1f51 {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+    --margin-block-start: 8px;
+    --margin-block-end: 8px;
+    --margin-inline-start: 8px;
+    --margin-inline-end: 8px;
+}
+
+.elementor-10 .elementor-element.elementor-element-92b1f51,
+.elementor-10 .elementor-element.elementor-element-92b1f51::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-5920b23 {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-cf82d20 {
+    text-align: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-cf82d20 .elementor-heading-title {
+    color: #F7F7F7;
+}
+
+.elementor-10 .elementor-element.elementor-element-e9eb94f {
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.elementor-10 .elementor-element.elementor-element-b9f1140 {
+    --display: flex;
+    --min-height: 100vh;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --overflow: hidden;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-b9f1140,
+.elementor-10 .elementor-element.elementor-element-b9f1140::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-335bdab {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-c45cbd3 {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-36d42ce {
+    text-align: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-9096e4b {
+    --display: flex;
+    --min-height: 40vh;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --justify-content: center;
+    --overflow: hidden;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-9096e4b,
+.elementor-10 .elementor-element.elementor-element-9096e4b::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-940c031 {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-ef49b28 {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-cf92ebc {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --justify-content: center;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-6906a7a {
+    text-align: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-da897f5 {
+    text-align: center;
+    color: #FFFFFF;
+    font-family: "Baloo 2", Sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 8px;
+    letter-spacing: 0.8px;
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+}
+
+.elementor-10 .elementor-element.elementor-element-6372e00 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --justify-content: center;
+    --background-transition: 0.3s;
+    --margin-block-start: -44px;
+    --margin-block-end: 0px;
+    --margin-inline-start: 0px;
+    --margin-inline-end: 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-6d29967 {
+    --grid-template-columns: repeat(0, auto);
+    --grid-column-gap: 5px;
+    --grid-row-gap: 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-6d29967 .elementor-widget-container {
+    text-align: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-6d29967 .elementor-social-icon {
+    background-color: #02010100;
+}
+
+.elementor-10 .elementor-element.elementor-element-26ea826 {
+    --display: flex;
+    --min-height: 69vh;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --overflow: hidden;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-26ea826,
+.elementor-10 .elementor-element.elementor-element-26ea826::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-014cf4f {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-b14137b {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-2c68c1b {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-c6e8234 {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-6094651 {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-fc93856 {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-1a402e1 {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-58c8730 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-c366ec2 {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-9d65420 {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-7145925 {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-ce09c04 {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-32693b1 {
+    --display: flex;
+    --min-height: 193px;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --gap: 0px 0px;
+    --overflow: hidden;
+    --background-transition: 0.3s;
+    --margin-block-start: -8px;
+    --margin-block-end: 0px;
+    --margin-inline-start: 0px;
+    --margin-inline-end: 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-32693b1:not(.elementor-motion-effects-element-type-background),
+.elementor-10 .elementor-element.elementor-element-32693b1>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://koolaidmancoin.com/wp-content/uploads/2023/11/BACKG.png");
+}
+
+.elementor-10 .elementor-element.elementor-element-32693b1,
+.elementor-10 .elementor-element.elementor-element-32693b1::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-4966586 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --justify-content: center;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-4966586.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-41c9ef3 {
+    text-align: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-41c9ef3 .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Baloo 2", Sans-serif;
+    font-weight: 600;
+}
+
+.elementor-10 .elementor-element.elementor-element-885949c {
+    text-align: center;
+    color: #FFFFFF;
+    font-family: "Baloo 2", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+}
+
+.elementor-10 .elementor-element.elementor-element-91c1a3d {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --justify-content: center;
+    --background-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-91c1a3d.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-1dee78b {
+    --grid-template-columns: repeat(0, auto);
+    --grid-column-gap: 5px;
+    --grid-row-gap: 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-1dee78b .elementor-widget-container {
+    text-align: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-1dee78b .elementor-social-icon {
+    background-color: #13101000;
+}
+
+@media(max-width:1024px) {
+    .elementor-10 .elementor-element.elementor-element-1a74e57.elementor-skin-slideshow .elementor-main-swiper {
+        margin-bottom: 10px;
+    }
+}
+
+@media(min-width:768px) {
+    .elementor-10 .elementor-element.elementor-element-1415a91 {
+        --content-width: 1080px;
+    }
+    .elementor-10 .elementor-element.elementor-element-3f30302 {
+        --content-width: 1600px;
+    }
+    .elementor-10 .elementor-element.elementor-element-f471341 {
+        --width: 50%;
+    }
+    .elementor-10 .elementor-element.elementor-element-db4f3b3 {
+        --width: 50%;
+    }
+    .elementor-10 .elementor-element.elementor-element-72e7434 {
+        --width: 75%;
+    }
+    .elementor-10 .elementor-element.elementor-element-a4fd34c {
+        --width: 75%;
+    }
+    .elementor-10 .elementor-element.elementor-element-6090a9f {
+        --width: 75%;
+    }
+    .elementor-10 .elementor-element.elementor-element-d027243 {
+        --width: 75%;
+    }
+    .elementor-10 .elementor-element.elementor-element-4966586 {
+        --width: 34.369%;
+    }
+    .elementor-10 .elementor-element.elementor-element-91c1a3d {
+        --width: 65.066%;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-10 .elementor-element.elementor-element-1415a91 {
+        --min-height: 755px;
+    }
+    .elementor-10 .elementor-element.elementor-element-5b37003 {
+        --min-height: 79px;
+        --margin-block-start: 0px;
+        --margin-block-end: 17px;
+        --margin-inline-start: 0px;
+        --margin-inline-end: 0px;
+    }
+    .elementor-10 .elementor-element.elementor-element-27401de>.elementor-widget-container {
+        margin: 0px 0px -74px 0px;
+    }
+    .elementor-10 .elementor-element.elementor-element-1ed767b {
+        --content-width: 81vw;
+    }
+    .elementor-10 .elementor-element.elementor-element-6598f06 .elementor-image-box-wrapper {
+        text-align: center;
+    }
+    .elementor-10 .elementor-element.elementor-element-6598f06 .elementor-image-box-img {
+        margin-bottom: 10px;
+    }
+    .elementor-10 .elementor-element.elementor-element-6598f06.elementor-position-right .elementor-image-box-img {
+        margin-left: 10px;
+    }
+    .elementor-10 .elementor-element.elementor-element-6598f06.elementor-position-left .elementor-image-box-img {
+        margin-right: 10px;
+    }
+    .elementor-10 .elementor-element.elementor-element-6598f06.elementor-position-top .elementor-image-box-img {
+        margin-bottom: 10px;
+    }
+    .elementor-10 .elementor-element.elementor-element-6598f06 .elementor-image-box-wrapper .elementor-image-box-img {
+        width: 100%;
+    }
+    .elementor-10 .elementor-element.elementor-element-b00d805 {
+        --min-height: 278px;
+    }
+    .elementor-10 .elementor-element.elementor-element-f489f36 {
+        --content-width: 500px;
+        --min-height: 32px;
+        --margin-block-start: 0px;
+        --margin-block-end: 0px;
+        --margin-inline-start: 0px;
+        --margin-inline-end: 0px;
+    }
+    .elementor-10 .elementor-element.elementor-element-eff8b81 {
+        text-align: center;
+    }
+    .elementor-10 .elementor-element.elementor-element-eff8b81 img {
+        width: 100%;
+        max-width: 100%;
+        height: 31px;
+    }
+    .elementor-10 .elementor-element.elementor-element-1a74e57.elementor-skin-slideshow .elementor-main-swiper {
+        margin-bottom: 10px;
+    }
+    .elementor-10 .elementor-element.elementor-element-0e7fc31 {
+        --width: 320px;
+    }
+    .elementor-10 .elementor-element.elementor-element-d9aa47c img {
+        max-width: 100%;
+    }
+    .elementor-10 .elementor-element.elementor-element-84f0ba9 .elementor-image-box-wrapper {
+        text-align: center;
+    }
+    .elementor-10 .elementor-element.elementor-element-84f0ba9 .elementor-image-box-img {
+        margin-bottom: 0px;
+    }
+    .elementor-10 .elementor-element.elementor-element-84f0ba9.elementor-position-right .elementor-image-box-img {
+        margin-left: 0px;
+    }
+    .elementor-10 .elementor-element.elementor-element-84f0ba9.elementor-position-left .elementor-image-box-img {
+        margin-right: 0px;
+    }
+    .elementor-10 .elementor-element.elementor-element-84f0ba9.elementor-position-top .elementor-image-box-img {
+        margin-bottom: 0px;
+    }
+    .elementor-10 .elementor-element.elementor-element-84f0ba9 .elementor-image-box-wrapper .elementor-image-box-img {
+        width: 80%;
+    }
+    .elementor-10 .elementor-element.elementor-element-84f0ba9 .elementor-image-box-title {
+        margin-bottom: 0px;
+    }
+    .elementor-10 .elementor-element.elementor-element-84f0ba9>.elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+    .elementor-10 .elementor-element.elementor-element-d7281b3 {
+        --min-height: 57vh;
+    }
+    .elementor-10 .elementor-element.elementor-element-9aadfd0 img {
+        width: 775px;
+        max-width: 82%;
+        height: 135px;
+    }
+    .elementor-10 .elementor-element.elementor-element-9aadfd0>.elementor-widget-container {
+        margin: -43px 0px 0px 0px;
+    }
+    .elementor-10 .elementor-element.elementor-element-9f0bc9f>.elementor-widget-container {
+        margin: -25px 0px 0px 0px;
+    }
+    .elementor-10 .elementor-element.elementor-element-72e7434 {
+        --padding-block-start: 1px;
+        --padding-block-end: 1px;
+        --padding-inline-start: 27px;
+        --padding-inline-end: 27px;
+    }
+    .elementor-10 .elementor-element.elementor-element-a4fd34c {
+        --padding-block-start: 1px;
+        --padding-block-end: 1px;
+        --padding-inline-start: 27px;
+        --padding-inline-end: 27px;
+    }
+    .elementor-10 .elementor-element.elementor-element-3f4cb3c img {
+        max-width: 33%;
+    }
+    .elementor-10 .elementor-element.elementor-element-ba22eb3 {
+        --content-width: 500px;
+    }
+    .elementor-10 .elementor-element.elementor-element-6090a9f {
+        --padding-block-start: 1px;
+        --padding-block-end: 1px;
+        --padding-inline-start: 27px;
+        --padding-inline-end: 27px;
+    }
+    .elementor-10 .elementor-element.elementor-element-552a1dc {
+        --content-width: 500px;
+    }
+    .elementor-10 .elementor-element.elementor-element-cc2d562 img {
+        max-width: 33%;
+    }
+    .elementor-10 .elementor-element.elementor-element-06cd1e6 {
+        --content-width: 500px;
+    }
+    .elementor-10 .elementor-element.elementor-element-d027243 {
+        --padding-block-start: 1px;
+        --padding-block-end: 1px;
+        --padding-inline-start: 27px;
+        --padding-inline-end: 27px;
+    }
+    .elementor-10 .elementor-element.elementor-element-5920b23 {
+        --content-width: 500px;
+    }
+    .elementor-10 .elementor-element.elementor-element-2c68c1b {
+        --justify-content: center;
+    }
+}

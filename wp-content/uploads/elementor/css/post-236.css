@@ -1,0 +1,184 @@
+.elementor-236 .elementor-element.elementor-element-09017ab {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --justify-content: center;
+    --align-items: center;
+    --gap: 0px 0px;
+    --background-transition: 0.3s;
+    --margin-block-start: 0px;
+    --margin-block-end: -81px;
+    --margin-inline-start: 0px;
+    --margin-inline-end: 0px;
+    --padding-block-start: 0px;
+    --padding-block-end: 0px;
+    --padding-inline-start: 0px;
+    --padding-inline-end: 0px;
+}
+
+.elementor-236 .elementor-element.elementor-element-09017ab:not(.elementor-motion-effects-element-type-background),
+.elementor-236 .elementor-element.elementor-element-09017ab>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #0C5CA494;
+}
+
+.elementor-236 .elementor-element.elementor-element-09017ab,
+.elementor-236 .elementor-element.elementor-element-09017ab::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-236 .elementor-element.elementor-element-09017ab.e-con {
+    --align-self: center;
+    --flex-grow: 1;
+    --flex-shrink: 0;
+}
+
+.elementor-236 .elementor-element.elementor-element-a4ebffe {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --justify-content: center;
+    --background-transition: 0.3s;
+}
+
+.elementor-236 .elementor-element.elementor-element-a4ebffe.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-236 .elementor-element.elementor-element-f887fc9 {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-236 .elementor-element.elementor-element-4ba3835 {
+    --display: flex;
+    --min-height: 64px;
+    --background-transition: 0.3s;
+}
+
+.elementor-236 .elementor-element.elementor-element-4ba3835.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-236 .elementor-element.elementor-element-9a35ee6 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --background-transition: 0.3s;
+}
+
+.elementor-236 .elementor-element.elementor-element-9a35ee6.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-236 .elementor-element.elementor-element-87f76e0 .elementor-menu-toggle {
+    margin: 0 auto;
+}
+
+.elementor-236 .elementor-element.elementor-element-87f76e0 .elementor-nav-menu .elementor-item {
+    font-family: "Baloo 2", Sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.elementor-236 .elementor-element.elementor-element-87f76e0 .elementor-nav-menu--main .elementor-item {
+    color: #FFFFFF;
+    fill: #FFFFFF;
+}
+
+.elementor-236 .elementor-element.elementor-element-87f76e0 .elementor-nav-menu--main .elementor-item:hover,
+.elementor-236 .elementor-element.elementor-element-87f76e0 .elementor-nav-menu--main .elementor-item.elementor-item-active,
+.elementor-236 .elementor-element.elementor-element-87f76e0 .elementor-nav-menu--main .elementor-item.highlighted,
+.elementor-236 .elementor-element.elementor-element-87f76e0 .elementor-nav-menu--main .elementor-item:focus {
+    color: #D9DFDA;
+    fill: #D9DFDA;
+}
+
+.elementor-236 .elementor-element.elementor-element-87f76e0 .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:before,
+.elementor-236 .elementor-element.elementor-element-87f76e0 .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:after {
+    background-color: #5713D8;
+}
+
+.elementor-236 .elementor-element.elementor-element-87f76e0 .e--pointer-framed .elementor-item:before,
+.elementor-236 .elementor-element.elementor-element-87f76e0 .e--pointer-framed .elementor-item:after {
+    border-color: #5713D8;
+}
+
+.elementor-236 .elementor-element.elementor-element-87f76e0 {
+    --e-nav-menu-horizontal-menu-item-margin: calc( 12px / 2);
+    width: var( --container-widget-width, 108.938%);
+    max-width: 108.938%;
+    --container-widget-width: 108.938%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-236 .elementor-element.elementor-element-87f76e0 .elementor-nav-menu--main:not(.elementor-nav-menu--layout-horizontal) .elementor-nav-menu>li:not(:last-child) {
+    margin-bottom: 12px;
+}
+
+.elementor-236 .elementor-element.elementor-element-87f76e0 .elementor-nav-menu--dropdown a,
+.elementor-236 .elementor-element.elementor-element-87f76e0 .elementor-menu-toggle {
+    color: #FDEFEF;
+}
+
+.elementor-236 .elementor-element.elementor-element-87f76e0 .elementor-nav-menu--dropdown {
+    background-color: #1B09369C;
+}
+
+.elementor-236 .elementor-element.elementor-element-87f76e0.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+@media(min-width:768px) {
+    .elementor-236 .elementor-element.elementor-element-09017ab {
+        --content-width: 1132px;
+    }
+    .elementor-236 .elementor-element.elementor-element-a4ebffe {
+        --width: 11.205%;
+    }
+    .elementor-236 .elementor-element.elementor-element-f887fc9 {
+        --width: 58%;
+    }
+    .elementor-236 .elementor-element.elementor-element-4ba3835 {
+        --width: 0.924%;
+    }
+    .elementor-236 .elementor-element.elementor-element-9a35ee6 {
+        --width: 76.864%;
+    }
+}
+
+@media(max-width:1024px) and (min-width:768px) {
+    .elementor-236 .elementor-element.elementor-element-4ba3835 {
+        --width: 389px;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-236 .elementor-element.elementor-element-a4ebffe {
+        --width: 87px;
+        --min-height: 21px;
+        --flex-direction: column;
+        --container-widget-width: 100%;
+        --container-widget-height: initial;
+        --container-widget-flex-grow: 0;
+        --container-widget-align-self: initial;
+    }
+    .elementor-236 .elementor-element.elementor-element-4ba3835 {
+        --width: 145px;
+    }
+    .elementor-236 .elementor-element.elementor-element-9a35ee6 {
+        --width: 33px;
+    }
+}
